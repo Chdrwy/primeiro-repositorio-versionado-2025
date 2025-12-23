@@ -1,2 +1,3 @@
 # primeiro repositorio versionado 2025
-refazendo curso gustavo guanabara git e github
+Refazendo o curso do Gustavo Guanabara de Git e GitHub
+Adicionando uma linha : linha 2
